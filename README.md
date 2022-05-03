@@ -131,7 +131,7 @@ Our full pipeline is found in the pipeline.yaml file which ploomber uses. It is 
 
 
 
-#Blog Post
+# Blog Post
 <img src="/capstone-rl-bot/visuals/640px-Blur-chart-data-69760.jpg" alt="header" width="600" align="center"/>
 
 We are three University of Michigan students that for our Capstone project sought to test our theory that inside of news trends exists predictive signals for the stock market. We believe that that the stock market operates as a metric demonstrating investor sentiments. Those sentiments are often acting reactionary to the news as updates become available. We decided to test this by looking at a specific listed company, Tesla, and counting co-mentions in news articles of Tesla and all other companies listed on the large exchanges in order to build a network model of related companies. We hypothesized that this network would contain signals influencing how companies stock prices would move in conjunction to each other.
